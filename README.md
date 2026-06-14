@@ -1,4 +1,4 @@
-## Freenove_ESP32_S3_WROOM_Board
+## ESP32_S3_WROOM_Board 이용하가 카메라, SD카드 사용해보기
 
 - Freenove® ESP32-S3 유사보드(거의 동일) 이용
 

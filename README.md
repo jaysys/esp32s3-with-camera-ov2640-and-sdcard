@@ -10,6 +10,8 @@
 
 - SD카드에 저장해 놓은 사진들 삭제하는 기능 수행
 
+- secrets.h 파일에 ssid, password 넣고 빌드하면 됨.
+
 <img src='Board.jpg' width='70%'/>
 
 ESP32-S3 chip is manufactured by Espressif®.

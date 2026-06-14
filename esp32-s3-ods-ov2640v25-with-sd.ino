@@ -95,16 +95,6 @@ void handleStream() {
   Serial.println("[WEB] 스트리밍 클라이언트 연결이 종료되었습니다.");
 }
 
-
-// ... (existing code: 1. Wi-Fi 및 NTP 설정)
-
-// ... (existing code: 2. 핀맵 설정)
-
-// ... (existing code: 3. 시간 및 파일 관리 함수)
-
-// ... (existing code: 4. 웹서버 핸들러)
-
-
 // 신규: 이미지 파일 보기
 void handleViewFile() {
   if (!server.hasArg("path")) {

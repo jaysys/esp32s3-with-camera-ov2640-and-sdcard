@@ -1,6 +1,6 @@
-secrets.h
 build/
 *.bin
 *.elf
 *.map
 .DS_Store
+
